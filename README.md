@@ -5,4 +5,4 @@ I enjoy exploring computational models, algorithms, and projects that combine co
 
 ![Galaxy Simulation](./final.gif)  
 
-*Credit: [NASA Galaxy Simulation](https://svs.gsfc.nasa.gov/10661/)*
+*Credit: [Simulation by NASA's JWST](https://svs.gsfc.nasa.gov/10661/)*
